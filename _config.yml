@@ -4,7 +4,7 @@ SEOTitle: Seawenzhu的博客 | Seawenzhu Blog
 header-img: img/post-bg-desk.jpg
 email: seawenzhu@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, seawenzhu的博客, seawenzhu, Java, Javascript, angular, react, vue"
+keyword: "Seawenzhu, Seawenzhu Blog, seawenzhu的博客, seawenzhu, Java, Javascript, angular, react, vue"
 url: "https://seawenzhu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/seawenzhu/seawenzhu.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/seawenzhu/seawenzhu.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle11.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     seawenzhu
 github_username:    seawenzhu
 facebook_username:  seawenzhu
-jianshu_username:   seawenzhu
+jianshu_username:   seawen18
 #twitter_username:   seawenzhu
 
 
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 35799c9d81a518e3c242                            #生成的clientID
+  clientSecret: 5dbcbc639ea546b313b4379d0857a3a216d1d21a    #生成的clientSecret
   repo: seawenzhu.github.io    #仓库名称
   owner: seawenzhu    #github用户名
   admin: seawenzhu
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: seawen.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -102,8 +102,8 @@ friends: [
         title: "ZhiHu",
         href: "http://zhihu.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com"
+        title: "简书",
+        href: "https://www.jianshu.com"
     },{
         title: "Apple",
         href: "https://apple.com"
